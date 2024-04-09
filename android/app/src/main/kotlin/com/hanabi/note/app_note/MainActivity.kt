@@ -1,0 +1,5 @@
+package com.hanabi.note.app_note
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
